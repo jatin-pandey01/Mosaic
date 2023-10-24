@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Mosaic/static/css/main.bc5e3b2b.css",
+    "main.js": "/Mosaic/static/js/main.5a6167b0.js",
+    "static/media/house.jpg": "/Mosaic/static/media/house.92cef67109b57c27cf5f.jpg",
+    "index.html": "/Mosaic/index.html",
+    "main.bc5e3b2b.css.map": "/Mosaic/static/css/main.bc5e3b2b.css.map",
+    "main.5a6167b0.js.map": "/Mosaic/static/js/main.5a6167b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc5e3b2b.css",
+    "static/js/main.5a6167b0.js"
+  ]
+}
