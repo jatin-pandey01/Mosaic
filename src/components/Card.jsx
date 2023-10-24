@@ -3,7 +3,7 @@ import house from '../assets/house.jpg'
 
 const Card = ({number1,number2}) => {
   return (
-    <div className='pl-4 flex flex-col h-fit gap-5  ml-5 rounded-md py-4 max-w-2xl shadow-xl'>
+    <div className='pl-4 pr-2 flex flex-col h-fit gap-5  ml-5 rounded-md py-4 max-w-[700px] shadow-xl'>
         <div className='flex justify-between'>
             <div className='flex gap-5'>
                 <img src={house} width={150} className='rounded-md' />
